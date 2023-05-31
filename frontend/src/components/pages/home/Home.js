@@ -1,6 +1,5 @@
 import React from "react";
 
-import MyComponent from "react-full-page-scroller";
 import Slider from "./Slider";
 import About from "./About";
 import Academics from "./Academics";

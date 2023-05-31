@@ -76,7 +76,7 @@ const SideNav = () => {
           </ul>
         </div>
       </aside>
-      <div className=" opacity-50 fixed inset-0 z-10 bg-black"></div>
+      <div className=" opacity-30 fixed inset-0 z-10 bg-black"></div>
     </div>
   );
 };
